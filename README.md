@@ -12,11 +12,10 @@ This project implements a simple robot using Raspberry Pi and ultrasonic sensors
   ## Hardware Requirements
 
 * Raspberry Pi
-* Motor driver (compatible with your motors)
-* Two ultrasonic sensors
-* DC motors (with appropriate voltage and current ratings for your motor driver)
+* Motor driver 
+* Five ultrasonic sensors
+* DC motors 
 * Jumper wires
-* Breadboard (optional)
 
 ## Software Requirements
 
