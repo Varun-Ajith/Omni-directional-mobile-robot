@@ -38,8 +38,9 @@ Ensure the motor driver and motors are compatible based on voltage and current r
     python Omnidirection_mobile_robot.py
    ```
 
-##How it Works
-###The script:
+## How it Works
+
+### The script:
 
 - Sets up GPIO pins for motor control and ultrasonic sensors.
 - Defines functions for various robot movements (forward, backward, turn, etc.).
@@ -48,7 +49,7 @@ Ensure the motor driver and motors are compatible based on voltage and current r
 - Moves forward when no obstacles are detected.
 
 
-Further Enhancements
+### Further Enhancements
 - Add functionalities like turning at specific angles, stopping on button press, etc.
 - Implement more sophisticated obstacle avoidance algorithms.
 - Integrate with a camera for visual obstacle detection.
