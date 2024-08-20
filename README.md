@@ -1,6 +1,6 @@
 # Omni-directional-mobile-robot
 
-##Description
+## Description
 This project implements a simple robot using Raspberry Pi and ultrasonic sensors for obstacle avoidance. The robot is designed to move forward until it detects an obstacle in its path. Upon obstacle detection, it checks the proximity of obstacles on different sides and adjusts its movement accordingly to avoid collisions. The robot can move forward, backward, turn left, turn right, move left laterally, and move right laterally based on the sensor inputs.
 
 ## Features
