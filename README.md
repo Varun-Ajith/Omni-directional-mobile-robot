@@ -54,4 +54,4 @@ Ensure the motor driver and motors are compatible based on voltage and current r
 - Integrate with a camera for visual obstacle detection.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
